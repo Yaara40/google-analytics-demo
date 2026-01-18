@@ -1,7 +1,7 @@
 import ReactGA from "react-ga4";
 
 // Measurement ID - בפרודקשן זה יהיה ID אמיתי מ-Google Analytics Console
-const MEASUREMENT_ID = "G-XXXXXXXXXX";
+const MEASUREMENT_ID = "G-NHRSJ3VKRQ";
 
 // אתחול Google Analytics
 export const initGA = () => {
